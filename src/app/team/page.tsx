@@ -15,7 +15,7 @@ export default function Team() {
         {
             domain: "Technical & R&D",
             members: [
-                { name: "Student Name", role: "Director" },
+                { name: "Mohanapriya V ", role: "Director" },
                 { name: "Student Name", role: "Associate Director" }
             ]
         },
